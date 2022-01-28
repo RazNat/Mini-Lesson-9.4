@@ -1,4 +1,4 @@
->## Table of Contents Example
+>## Table of Contents
 * [About the Project](#about_the_project)
 * [Tools](#tools)
 * [Installation Instructions](#installation_instructions)
